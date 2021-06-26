@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int cu004()
-{
+int main(){
     printf("\'Hello\'");
 
     return 0;

@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int cu005()
-{
+int main(){
     printf("\"Hello World\"");
 
     return 0;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int cu006() {
+int main() {
     printf("\"!@#$%^&*()\"");
     return 0;
 }
